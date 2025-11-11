@@ -58,17 +58,6 @@ private static final String PASSWORD = "your_password";
 ✅ Maintain a transaction record (with issue/return dates)
 ✅ Modular design following OOP principles
 
-## 📂 Project Structure
-LibraryManagementSystem/
-│
-├── src/
-│   ├── DBConnection.java
-│   ├── Book.java
-│   ├── LibraryService.java
-│   └── LibraryManagementSystem.java
-│
-├── README.md
-└── pom.xml  (if using Maven)
 
 ## ▶️ How to Run
 
